@@ -1,0 +1,16 @@
+Role : 
+FrontEnd (React Native)
+Apps Detail :
+ATLAS as a Teaching & Learning platform facilitates a transformational learning experience that transform learners from unqualified to qualified and then to mastery for all context of learning, such as:
+- Formal
+- Non-formal
+- Informal
+
+As a device in the hand of employee during office hours that can:
+- Guard from Distraction
+- Guide to the Direction
+- Grow to the Next Level
+
+url : https://play.google.com/store/apps/details?id=com.atlas.atlasdev
+
+2019 - 2020

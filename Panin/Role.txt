@@ -1,0 +1,14 @@
+Role : 
+Front End (React Native)
+Back End (Code Igniter)
+
+Details : 
+Panin Collection System was built to accommodate the specific needs of PANIN Bank clients in handling certain accounts that have been set in certain parameters that combine:
+1) Scoring engine with engine analytics and CRM.
+2) Collection Management System (CMS).
+3) Mobile Collection System in mobile.
+4) Telecollection System with configuration against telephony.
+
+url : - 
+
+2021

@@ -1,0 +1,8 @@
+Role : 
+Front End (React Native)
+Backend (Code Igniter, Node JS).
+
+Details :
+ESA 122 is an emergency service-based mobile application at the Regency / City level that can be accessed by the public and is intended to help cope with disasters and suspicious things, by forwarding information / reports / tickets from the application to officers which will be followed up by the or related related authorities such as the police and / or fire department.
+
+2019 - 2021
